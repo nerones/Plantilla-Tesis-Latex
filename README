@@ -1,3 +1,6 @@
+======
+README
+======
 La siguiente plantilla tomo como base la que comparte el D.R. Gengis Kanhg Toledo Ramírez de su Tesis doctoral 
 para la UNAM. A la cual se le hicieron algunas pequeñas modificaciones como usar fancyvrb en vez de verbatim,
 el contenido textual de los archivos fueron escritos por mi. El archivo principal es tesis.tex, para
@@ -11,34 +14,34 @@ Pagina de Latex http://www.latex-project.org/
 
 Lo siguiente es el contenido del archivo __LEEME__ de la plantilla original:
 
-	>Comparto el código LaTeX y el PDF de mi tesis doctoral que realicé en la
-	>Facultad de Ingeniería de la Universidad Nacional Autónoma de México.
-
-	>Todo en un sistema GNU (Linux - Ubuntu)
-
-	>La portada se generó aparte y luego se pegó al resto del documento con el comando "gs"
-	>Para ahorrar espacio el archivo PDF principal temporal no se incluye.
-
-	>El interesado podrá ver en la práctica como generé la portada, bibliografía, página de licencia,
-	>jurado, etc.
-
-	>He eliminado varios archivos TEX que no aportaban nada nuevo y truncado algunos más, por ello es 
-	>seguro que no se podrá compilar el código sin editarlo.
-	>Habrá referencias a figuras, tablas, etc., rotas. Sin embargo les aseguro que con este código obtuve 
-	>los resultados que se aprecian en el PDF.
-	>La portada y su fuente (portada.tex) así como las dos figuras que ocupa están intactos, debe compilar
-	>a la primera.
-
-	>Incluyo archivos .bib de bibliografía y dos scrips de compilación.
-
-	>NOTA PARA TESISTAS DE LA UNAM:
-	>Añado aquí que si bien el procedimiento de titulación pedia forzosamente archivos privativos de la TESIS,
-	>al decir que yo la había hecho en LaTeX sólo se me pidieron las fuentes LaTeX tanto en la Biblioteca del 
-	>Posgrado de Ingeniería como en la Central.
-
-	>Espero les sirva este paquete y les ahorre mucho tiempo que puedan dedicar a investigar,
-	>a aprender otras cosas, a su familia y a lo que quieran.
-
-	>Atte:
-	>Gengis
-	>gengiskanhg.geo@yahoo.com
+>Comparto el código LaTeX y el PDF de mi tesis doctoral que realicé en la
+>Facultad de Ingeniería de la Universidad Nacional Autónoma de México.
+>
+>Todo en un sistema GNU (Linux - Ubuntu)
+>
+>La portada se generó aparte y luego se pegó al resto del documento con el comando "gs"
+>Para ahorrar espacio el archivo PDF principal temporal no se incluye.
+>
+>El interesado podrá ver en la práctica como generé la portada, bibliografía, página de licencia,
+>jurado, etc.
+>
+>He eliminado varios archivos TEX que no aportaban nada nuevo y truncado algunos más, por ello es 
+>seguro que no se podrá compilar el código sin editarlo.
+>Habrá referencias a figuras, tablas, etc., rotas. Sin embargo les aseguro que con este código obtuve 
+>los resultados que se aprecian en el PDF.
+>La portada y su fuente (portada.tex) así como las dos figuras que ocupa están intactos, debe compilar
+>a la primera.
+>
+>Incluyo archivos .bib de bibliografía y dos scrips de compilación.
+>
+>NOTA PARA TESISTAS DE LA UNAM:
+>Añado aquí que si bien el procedimiento de titulación pedia forzosamente archivos privativos de la TESIS,
+>al decir que yo la había hecho en LaTeX sólo se me pidieron las fuentes LaTeX tanto en la Biblioteca del 
+>Posgrado de Ingeniería como en la Central.
+>
+>Espero les sirva este paquete y les ahorre mucho tiempo que puedan dedicar a investigar,
+>a aprender otras cosas, a su familia y a lo que quieran.
+>
+>Atte:
+>Gengis
+>gengiskanhg.geo@yahoo.com
